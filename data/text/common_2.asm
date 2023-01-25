@@ -1593,3 +1593,9 @@ _OakText5::
 	para "That's why I study"
 	line "#MON every day."
 	prompt
+	
+_CantDepositText::
+	text "Can't deposit"
+	line "this item."
+	prompt
+
