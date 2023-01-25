@@ -1309,6 +1309,15 @@ UnknownText_0x1bd308::
 	line "wore off."
 	done
 
+_UseAnotherRepelText::
+	text "@"
+	text_ram wStringBuffer3
+	text "'s"
+	line "wore off."
+
+	para "Use another?"
+	done
+
 UnknownText_0x1bd321::
 	text "<PLAYER> found"
 	line "@"
