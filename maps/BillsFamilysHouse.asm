@@ -113,7 +113,7 @@ BillGoodLuckText:
 	para "It may prove"
 	line "indespensible!"
 	para "And remember,"
-	line "unlike a TM, an HM"
+	line "like a TM, an HM"
 	para "can be reused as"
 	line "many times as you"
 	cont "want to!"
