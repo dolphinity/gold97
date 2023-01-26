@@ -585,11 +585,6 @@ UnknownText_0x1c4e5f::
 UnknownText_0x1c4e7e::
 	text "How many?"
 	done
-	
-AlreadyHaveTMText::
-	text "You already have"
-	line "that TM."
-	done
 
 UnknownText_0x1c4e89::
 	text_decimal wItemQuantityChangeBuffer, 1, 2
