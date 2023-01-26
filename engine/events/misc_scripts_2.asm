@@ -12,8 +12,8 @@ RepelWoreOffScript::
 	
 UseAnotherRepelScript::
 	opentext
-	readmem wRepelType
-	getitemname STRING_BUFFER_3, USE_SCRIPT_VAR
+	copybytetovar wRepelType
+	itemtotext USE_SCRIPT_VAR, MEM_BUFFER_0
 	writetext .text
 	yesorno
 	iffalse .done
