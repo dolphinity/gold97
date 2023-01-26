@@ -1,6 +1,6 @@
 	db BELMITT ; 185
 
-	db  75, 90,  60,  90, 105,  60
+	db  75, 90,  60,  90, 105,  70
 	;   hp  atk  def  spd  sat  sdf
 
 	db GRASS, POISON ; type
