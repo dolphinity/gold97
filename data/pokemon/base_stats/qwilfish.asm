@@ -1,6 +1,6 @@
 	db QWILFISH ; 216
 
-	db  65,  85,  75,  85,  55,  55
+	db  65,  85,  85,  85,  55,  55
 	;   hp  atk  def  spd  sat  sdf
 
 	db WATER, WATER ; type
