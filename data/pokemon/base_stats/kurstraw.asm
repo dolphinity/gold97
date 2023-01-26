@@ -1,11 +1,11 @@
 	db KURSTRAW ; 220
 
-	db  43,  38,  71,  22,  63,  61
+	db  55,  55,  55,  80,  80,  80
 	;   hp  atk  def  spd  sat  sdf
 
 	db GHOST, GHOST ; type
-	db 90 ; catch rate
-	db 98 ; base exp
+	db 45 ; catch rate
+	db 147 ; base exp
 	db NO_ITEM, SPELL_TAG ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
