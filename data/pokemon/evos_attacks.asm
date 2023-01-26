@@ -3144,7 +3144,7 @@ ScizorEvosAttacks:
 	db 12, PURSUIT
 	db 18, FALSE_SWIPE
 	db 24, AGILITY
-	db 30, WING_ATTACK
+	db 30, METAL_CLAW
 	db 34, FURY_CUTTER
 	db 39, SLASH
 	db 43, RAZOR_WIND
@@ -3662,7 +3662,7 @@ WolfanEvosAttacks:
 	db 1, TACKLE
 	db 1, LEER
 	db 7, POWDER_SNOW
-	db 12, FURY_SWIPES
+	db 12, BITE
 	db 18, LOW_KICK
 	db 23, SAFEGUARD
 	db 29, ICY_WIND
@@ -3683,7 +3683,7 @@ WarwolfEvosAttacks:
 	db 29, ICY_WIND
 	db 31, ICE_PUNCH
 	db 35, SLASH
-	db 41, SCREECH
+	db 41, CRUNCH
 	db 49, CONFUSE_RAY
 	db 56, BLIZZARD
 	db 0 ; no more level-up moves
