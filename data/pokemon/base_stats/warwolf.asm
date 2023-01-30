@@ -1,6 +1,6 @@
 	db WARWOLF ; 247
 
-	db 70, 90, 80,  100, 70, 85
+	db 100, 115, 80,  85,  110, 90
 	;   hp  atk  def  spd  sat  sdf
 
 	db ICE, DARK ; type
