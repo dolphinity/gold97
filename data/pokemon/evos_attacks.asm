@@ -3518,11 +3518,11 @@ TyrogueEvosAttacks:
 
 HitmontopEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, ROLLING_KICK
+	db 1, RAPID_SPIN
 	db 7, FOCUS_ENERGY
 	db 13, PURSUIT
 	db 19, QUICK_ATTACK
-	db 25, RAPID_SPIN
+	db 25, ROLLING_KICK
 	db 31, COUNTER
 	db 37, AGILITY
 	db 43, DETECT
